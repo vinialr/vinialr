@@ -1,6 +1,5 @@
 <p>Tomorrow it´s another day</p>
 
-
 <html>
 <head>
     <meta charset="utf-8"/>
@@ -12,9 +11,7 @@
         <br>
         <font face="arial" size="9">Experiências Profissionais</font>
     </p>
-
     <hr width="100%" size="2" color="silver">
-
     <p>
         <strong>
          <font face="arial" size="5">Microsoft</font>
@@ -38,7 +35,6 @@
             <br>
         </font>
     </p>
-
     <p>
         <strong>
             <font face="arial">Responsabilidades e Realizações: </font>
@@ -52,9 +48,7 @@
             </ul>
         </font>
     </p>
-
     <hr width="100%" size="2" color="silver">
-
     <p>
         <strong>
          <font face="arial" size="5">Jonh Deer</font>
@@ -78,7 +72,6 @@
             <br>
         </font>
     </p>
-
     <p>
         <strong>
             <font face="arial">Responsabilidades e Realizações: </font>
@@ -94,6 +87,7 @@
     </p>
 </body>
 </html>
+
 
 <!---
 vinialr/vinialr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
