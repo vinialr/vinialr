@@ -1,10 +1,21 @@
 <p>Tomorrow it´s another day</p>
 
-<div class="flex-container">
-    <div>1</div>
-    <div>2</div>
-    <div>3</div>
-  </div>
+<table>
+  <colgroup>
+    <col style="background-color: #0f0" />
+    <col span="2" />
+  </colgroup>
+  <tr>
+    <th>Lime</th>
+    <th>Lemon</th>
+    <th>Orange</th>
+  </tr>
+  <tr>
+    <td>Green</td>
+    <td>Yellow</td>
+    <td>Orange</td>
+  </tr>
+</table>
 
 <!---
 vinialr/vinialr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
